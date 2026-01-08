@@ -15,7 +15,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 49262.0,
       "Temporary_Electricity_kWh": 9345834.0,
-      "EV_Charging Station_kWh": 88738
+      "EV_Charging_Station_kWh": 88738
     },
     {
       "Year": 2023,
@@ -32,7 +32,7 @@
       "Government_State_Enterprise_kWh": 137411688.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 280211761.0,
-      "EV_Charging Station_kWh": 61532417
+      "EV_Charging_Station_kWh": 61532417
     },
     {
       "Year": 2023,
@@ -49,7 +49,7 @@
       "Government_State_Enterprise_kWh": 399831.0,
       "Water_Pumping_kWh": 13182391.0,
       "Temporary_Electricity_kWh": 10244647.0,
-      "EV_Charging Station_kWh": 264230
+      "EV_Charging_Station_kWh": 264230
     },
     {
       "Year": 2023,
@@ -66,7 +66,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 8496054.0,
       "Temporary_Electricity_kWh": 7635844.0,
-      "EV_Charging Station_kWh": 97933
+      "EV_Charging_Station_kWh": 97933
     },
     {
       "Year": 2023,
@@ -83,7 +83,7 @@
       "Government_State_Enterprise_kWh": 7377.0,
       "Water_Pumping_kWh": 15230704.0,
       "Temporary_Electricity_kWh": 5705924.0,
-      "EV_Charging Station_kWh": 256568
+      "EV_Charging_Station_kWh": 256568
     },
     {
       "Year": 2023,
@@ -100,7 +100,7 @@
       "Government_State_Enterprise_kWh": 903111.0,
       "Water_Pumping_kWh": 14369865.0,
       "Temporary_Electricity_kWh": 19866797.0,
-      "EV_Charging Station_kWh": 324108
+      "EV_Charging_Station_kWh": 324108
     },
     {
       "Year": 2023,
@@ -117,7 +117,7 @@
       "Government_State_Enterprise_kWh": 286845.0,
       "Water_Pumping_kWh": 4716229.0,
       "Temporary_Electricity_kWh": 9029308.0,
-      "EV_Charging Station_kWh": 107468
+      "EV_Charging_Station_kWh": 107468
     },
     {
       "Year": 2023,
@@ -134,7 +134,7 @@
       "Government_State_Enterprise_kWh": 702466.0,
       "Water_Pumping_kWh": 4766347.0,
       "Temporary_Electricity_kWh": 20785261.0,
-      "EV_Charging Station_kWh": 247602
+      "EV_Charging_Station_kWh": 247602
     },
     {
       "Year": 2023,
@@ -151,7 +151,7 @@
       "Government_State_Enterprise_kWh": 1474372.0,
       "Water_Pumping_kWh": 18444.0,
       "Temporary_Electricity_kWh": 130432551.0,
-      "EV_Charging Station_kWh": 1008946
+      "EV_Charging_Station_kWh": 1008946
     },
     {
       "Year": 2023,
@@ -168,7 +168,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 6748842.0,
       "Temporary_Electricity_kWh": 3240694.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2023,
@@ -185,7 +185,7 @@
       "Government_State_Enterprise_kWh": 92204.0,
       "Water_Pumping_kWh": 7789969.0,
       "Temporary_Electricity_kWh": 9643627.0,
-      "EV_Charging Station_kWh": 174842
+      "EV_Charging_Station_kWh": 174842
     },
     {
       "Year": 2023,
@@ -202,7 +202,7 @@
       "Government_State_Enterprise_kWh": 44100.0,
       "Water_Pumping_kWh": 1174252.0,
       "Temporary_Electricity_kWh": 9422765.0,
-      "EV_Charging Station_kWh": 247707
+      "EV_Charging_Station_kWh": 247707
     },
     {
       "Year": 2023,
@@ -219,7 +219,7 @@
       "Government_State_Enterprise_kWh": 8356418.0,
       "Water_Pumping_kWh": 6052823.0,
       "Temporary_Electricity_kWh": 14740070.0,
-      "EV_Charging Station_kWh": 563013
+      "EV_Charging_Station_kWh": 563013
     },
     {
       "Year": 2023,
@@ -236,7 +236,7 @@
       "Government_State_Enterprise_kWh": 13342866.0,
       "Water_Pumping_kWh": 14117188.0,
       "Temporary_Electricity_kWh": 36790819.0,
-      "EV_Charging Station_kWh": 1010066
+      "EV_Charging_Station_kWh": 1010066
     },
     {
       "Year": 2023,
@@ -253,7 +253,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 140114.0,
       "Temporary_Electricity_kWh": 5777060.0,
-      "EV_Charging Station_kWh": 100584
+      "EV_Charging_Station_kWh": 100584
     },
     {
       "Year": 2023,
@@ -270,7 +270,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 1185420.0,
       "Temporary_Electricity_kWh": 3939051.0,
-      "EV_Charging Station_kWh": 44230
+      "EV_Charging_Station_kWh": 44230
     },
     {
       "Year": 2023,
@@ -287,7 +287,7 @@
       "Government_State_Enterprise_kWh": 79785.0,
       "Water_Pumping_kWh": 3005327.0,
       "Temporary_Electricity_kWh": 8736655.0,
-      "EV_Charging Station_kWh": 180612
+      "EV_Charging_Station_kWh": 180612
     },
     {
       "Year": 2023,
@@ -304,7 +304,7 @@
       "Government_State_Enterprise_kWh": 130569.0,
       "Water_Pumping_kWh": 152742.0,
       "Temporary_Electricity_kWh": 5297634.0,
-      "EV_Charging Station_kWh": 86894
+      "EV_Charging_Station_kWh": 86894
     },
     {
       "Year": 2023,
@@ -321,7 +321,7 @@
       "Government_State_Enterprise_kWh": 1345657.0,
       "Water_Pumping_kWh": 759621.0,
       "Temporary_Electricity_kWh": 25790517.0,
-      "EV_Charging Station_kWh": 3414564
+      "EV_Charging_Station_kWh": 3414564
     },
     {
       "Year": 2023,
@@ -338,7 +338,7 @@
       "Government_State_Enterprise_kWh": 846.0,
       "Water_Pumping_kWh": 9153988.0,
       "Temporary_Electricity_kWh": 5100088.0,
-      "EV_Charging Station_kWh": 43742
+      "EV_Charging_Station_kWh": 43742
     },
     {
       "Year": 2023,
@@ -355,7 +355,7 @@
       "Government_State_Enterprise_kWh": 2869578.0,
       "Water_Pumping_kWh": 6226780.0,
       "Temporary_Electricity_kWh": 51466812.0,
-      "EV_Charging Station_kWh": 1083885
+      "EV_Charging_Station_kWh": 1083885
     },
     {
       "Year": 2023,
@@ -372,7 +372,7 @@
       "Government_State_Enterprise_kWh": 309719.0,
       "Water_Pumping_kWh": 1867057.0,
       "Temporary_Electricity_kWh": 14401182.0,
-      "EV_Charging Station_kWh": 340180
+      "EV_Charging_Station_kWh": 340180
     },
     {
       "Year": 2023,
@@ -389,7 +389,7 @@
       "Government_State_Enterprise_kWh": 883714.0,
       "Water_Pumping_kWh": 30083860.0,
       "Temporary_Electricity_kWh": 13557748.0,
-      "EV_Charging Station_kWh": 760326
+      "EV_Charging_Station_kWh": 760326
     },
     {
       "Year": 2023,
@@ -406,7 +406,7 @@
       "Government_State_Enterprise_kWh": 886716.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 55134405.0,
-      "EV_Charging Station_kWh": 9975483
+      "EV_Charging_Station_kWh": 9975483
     },
     {
       "Year": 2023,
@@ -423,7 +423,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 57522.0,
       "Temporary_Electricity_kWh": 3937085.0,
-      "EV_Charging Station_kWh": 21944
+      "EV_Charging_Station_kWh": 21944
     },
     {
       "Year": 2023,
@@ -440,7 +440,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 4387889.0,
       "Temporary_Electricity_kWh": 4828221.0,
-      "EV_Charging Station_kWh": 10133
+      "EV_Charging_Station_kWh": 10133
     },
     {
       "Year": 2023,
@@ -457,7 +457,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 1817037.0,
       "Temporary_Electricity_kWh": 4445365.0,
-      "EV_Charging Station_kWh": 24278
+      "EV_Charging_Station_kWh": 24278
     },
     {
       "Year": 2023,
@@ -474,7 +474,7 @@
       "Government_State_Enterprise_kWh": 33154.0,
       "Water_Pumping_kWh": 3805617.0,
       "Temporary_Electricity_kWh": 10509664.0,
-      "EV_Charging Station_kWh": 142269
+      "EV_Charging_Station_kWh": 142269
     },
     {
       "Year": 2023,
@@ -491,7 +491,7 @@
       "Government_State_Enterprise_kWh": 35915289.0,
       "Water_Pumping_kWh": 206524.0,
       "Temporary_Electricity_kWh": 72586580.0,
-      "EV_Charging Station_kWh": 1896807
+      "EV_Charging_Station_kWh": 1896807
     },
     {
       "Year": 2023,
@@ -508,7 +508,7 @@
       "Government_State_Enterprise_kWh": 1540457.0,
       "Water_Pumping_kWh": 121091.0,
       "Temporary_Electricity_kWh": 16508168.0,
-      "EV_Charging Station_kWh": 446101
+      "EV_Charging_Station_kWh": 446101
     },
     {
       "Year": 2023,
@@ -525,7 +525,7 @@
       "Government_State_Enterprise_kWh": 154522.0,
       "Water_Pumping_kWh": 4320515.0,
       "Temporary_Electricity_kWh": 10799820.0,
-      "EV_Charging Station_kWh": 152993
+      "EV_Charging_Station_kWh": 152993
     },
     {
       "Year": 2023,
@@ -542,7 +542,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 56562.0,
       "Temporary_Electricity_kWh": 4635765.0,
-      "EV_Charging Station_kWh": 41707
+      "EV_Charging_Station_kWh": 41707
     },
     {
       "Year": 2023,
@@ -559,7 +559,7 @@
       "Government_State_Enterprise_kWh": 586312.0,
       "Water_Pumping_kWh": 5253735.0,
       "Temporary_Electricity_kWh": 28682726.0,
-      "EV_Charging Station_kWh": 416903
+      "EV_Charging_Station_kWh": 416903
     },
     {
       "Year": 2023,
@@ -576,7 +576,7 @@
       "Government_State_Enterprise_kWh": 121120.0,
       "Water_Pumping_kWh": 1797345.0,
       "Temporary_Electricity_kWh": 3514827.0,
-      "EV_Charging Station_kWh": 108894
+      "EV_Charging_Station_kWh": 108894
     },
     {
       "Year": 2023,
@@ -593,7 +593,7 @@
       "Government_State_Enterprise_kWh": 241615.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 5238362.0,
-      "EV_Charging Station_kWh": 123946
+      "EV_Charging_Station_kWh": 123946
     },
     {
       "Year": 2023,
@@ -610,7 +610,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 2753498.0,
       "Temporary_Electricity_kWh": 4293757.0,
-      "EV_Charging Station_kWh": 76782
+      "EV_Charging_Station_kWh": 76782
     },
     {
       "Year": 2023,
@@ -627,7 +627,7 @@
       "Government_State_Enterprise_kWh": 132445.0,
       "Water_Pumping_kWh": 32650423.0,
       "Temporary_Electricity_kWh": 4209728.0,
-      "EV_Charging Station_kWh": 109401
+      "EV_Charging_Station_kWh": 109401
     },
     {
       "Year": 2023,
@@ -644,7 +644,7 @@
       "Government_State_Enterprise_kWh": 769857.0,
       "Water_Pumping_kWh": 24552691.0,
       "Temporary_Electricity_kWh": 7743911.0,
-      "EV_Charging Station_kWh": 401077
+      "EV_Charging_Station_kWh": 401077
     },
     {
       "Year": 2023,
@@ -661,7 +661,7 @@
       "Government_State_Enterprise_kWh": 1157668.0,
       "Water_Pumping_kWh": 3645528.0,
       "Temporary_Electricity_kWh": 9421306.0,
-      "EV_Charging Station_kWh": 614994
+      "EV_Charging_Station_kWh": 614994
     },
     {
       "Year": 2023,
@@ -678,7 +678,7 @@
       "Government_State_Enterprise_kWh": 300727.0,
       "Water_Pumping_kWh": 849212.0,
       "Temporary_Electricity_kWh": 10371218.0,
-      "EV_Charging Station_kWh": 358259
+      "EV_Charging_Station_kWh": 358259
     },
     {
       "Year": 2023,
@@ -695,7 +695,7 @@
       "Government_State_Enterprise_kWh": 231724.0,
       "Water_Pumping_kWh": 4733030.0,
       "Temporary_Electricity_kWh": 2202619.0,
-      "EV_Charging Station_kWh": 156709
+      "EV_Charging_Station_kWh": 156709
     },
     {
       "Year": 2023,
@@ -712,7 +712,7 @@
       "Government_State_Enterprise_kWh": 865720.0,
       "Water_Pumping_kWh": 8035.0,
       "Temporary_Electricity_kWh": 43472924.0,
-      "EV_Charging Station_kWh": 353590
+      "EV_Charging_Station_kWh": 353590
     },
     {
       "Year": 2023,
@@ -729,7 +729,7 @@
       "Government_State_Enterprise_kWh": 81655.0,
       "Water_Pumping_kWh": 11675980.0,
       "Temporary_Electricity_kWh": 7205999.0,
-      "EV_Charging Station_kWh": 148467
+      "EV_Charging_Station_kWh": 148467
     },
     {
       "Year": 2023,
@@ -746,7 +746,7 @@
       "Government_State_Enterprise_kWh": 9644.0,
       "Water_Pumping_kWh": 1511022.0,
       "Temporary_Electricity_kWh": 4775163.0,
-      "EV_Charging Station_kWh": 88350
+      "EV_Charging_Station_kWh": 88350
     },
     {
       "Year": 2023,
@@ -763,7 +763,7 @@
       "Government_State_Enterprise_kWh": 22294.0,
       "Water_Pumping_kWh": 297265.0,
       "Temporary_Electricity_kWh": 1620014.0,
-      "EV_Charging Station_kWh": 14708
+      "EV_Charging_Station_kWh": 14708
     },
     {
       "Year": 2023,
@@ -780,7 +780,7 @@
       "Government_State_Enterprise_kWh": 44981.0,
       "Water_Pumping_kWh": 6948041.0,
       "Temporary_Electricity_kWh": 4012564.0,
-      "EV_Charging Station_kWh": 44664
+      "EV_Charging_Station_kWh": 44664
     },
     {
       "Year": 2023,
@@ -797,7 +797,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 60187.0,
       "Temporary_Electricity_kWh": 4993044.0,
-      "EV_Charging Station_kWh": 44960
+      "EV_Charging_Station_kWh": 44960
     },
     {
       "Year": 2023,
@@ -814,7 +814,7 @@
       "Government_State_Enterprise_kWh": 24132.0,
       "Water_Pumping_kWh": 25540052.0,
       "Temporary_Electricity_kWh": 6353237.0,
-      "EV_Charging Station_kWh": 191313
+      "EV_Charging_Station_kWh": 191313
     },
     {
       "Year": 2023,
@@ -831,7 +831,7 @@
       "Government_State_Enterprise_kWh": 28209.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 3697897.0,
-      "EV_Charging Station_kWh": 62012
+      "EV_Charging_Station_kWh": 62012
     },
     {
       "Year": 2023,
@@ -848,7 +848,7 @@
       "Government_State_Enterprise_kWh": 144775.0,
       "Water_Pumping_kWh": 39575223.0,
       "Temporary_Electricity_kWh": 68519749.0,
-      "EV_Charging Station_kWh": 36322
+      "EV_Charging_Station_kWh": 36322
     },
     {
       "Year": 2023,
@@ -865,7 +865,7 @@
       "Government_State_Enterprise_kWh": 2013351.0,
       "Water_Pumping_kWh": 1380916.0,
       "Temporary_Electricity_kWh": 17200415.0,
-      "EV_Charging Station_kWh": 206534
+      "EV_Charging_Station_kWh": 206534
     },
     {
       "Year": 2023,
@@ -882,7 +882,7 @@
       "Government_State_Enterprise_kWh": 567455.0,
       "Water_Pumping_kWh": 4135450.0,
       "Temporary_Electricity_kWh": 10780475.0,
-      "EV_Charging Station_kWh": 105805
+      "EV_Charging_Station_kWh": 105805
     },
     {
       "Year": 2023,
@@ -899,7 +899,7 @@
       "Government_State_Enterprise_kWh": 268071.0,
       "Water_Pumping_kWh": 5746013.0,
       "Temporary_Electricity_kWh": 5757006.0,
-      "EV_Charging Station_kWh": 545178
+      "EV_Charging_Station_kWh": 545178
     },
     {
       "Year": 2023,
@@ -916,7 +916,7 @@
       "Government_State_Enterprise_kWh": 157686.0,
       "Water_Pumping_kWh": 3322394.0,
       "Temporary_Electricity_kWh": 3838100.0,
-      "EV_Charging Station_kWh": 18562
+      "EV_Charging_Station_kWh": 18562
     },
     {
       "Year": 2023,
@@ -933,7 +933,7 @@
       "Government_State_Enterprise_kWh": 5058.0,
       "Water_Pumping_kWh": 3221287.0,
       "Temporary_Electricity_kWh": 6690961.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2023,
@@ -950,7 +950,7 @@
       "Government_State_Enterprise_kWh": 35461.0,
       "Water_Pumping_kWh": 2892374.0,
       "Temporary_Electricity_kWh": 6909425.0,
-      "EV_Charging Station_kWh": 50077
+      "EV_Charging_Station_kWh": 50077
     },
     {
       "Year": 2023,
@@ -967,7 +967,7 @@
       "Government_State_Enterprise_kWh": 24737.0,
       "Water_Pumping_kWh": 4444607.0,
       "Temporary_Electricity_kWh": 6535052.0,
-      "EV_Charging Station_kWh": 21423
+      "EV_Charging_Station_kWh": 21423
     },
     {
       "Year": 2023,
@@ -984,7 +984,7 @@
       "Government_State_Enterprise_kWh": 677834.0,
       "Water_Pumping_kWh": 2616760.0,
       "Temporary_Electricity_kWh": 29355460.0,
-      "EV_Charging Station_kWh": 194909
+      "EV_Charging_Station_kWh": 194909
     },
     {
       "Year": 2023,
@@ -1001,7 +1001,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 7452.0,
       "Temporary_Electricity_kWh": 1929275.0,
-      "EV_Charging Station_kWh": 18050
+      "EV_Charging_Station_kWh": 18050
     },
     {
       "Year": 2023,
@@ -1018,7 +1018,7 @@
       "Government_State_Enterprise_kWh": 1774649.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 80165518.0,
-      "EV_Charging Station_kWh": 7824409
+      "EV_Charging_Station_kWh": 7824409
     },
     {
       "Year": 2023,
@@ -1035,7 +1035,7 @@
       "Government_State_Enterprise_kWh": 108875.0,
       "Water_Pumping_kWh": 44264.0,
       "Temporary_Electricity_kWh": 3684975.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2023,
@@ -1052,7 +1052,7 @@
       "Government_State_Enterprise_kWh": 94617.0,
       "Water_Pumping_kWh": 167.0,
       "Temporary_Electricity_kWh": 28841535.0,
-      "EV_Charging Station_kWh": 1610400
+      "EV_Charging_Station_kWh": 1610400
     },
     {
       "Year": 2023,
@@ -1069,7 +1069,7 @@
       "Government_State_Enterprise_kWh": 12527.0,
       "Water_Pumping_kWh": 429818.0,
       "Temporary_Electricity_kWh": 6097146.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2023,
@@ -1086,7 +1086,7 @@
       "Government_State_Enterprise_kWh": 2375469.0,
       "Water_Pumping_kWh": 10898239.0,
       "Temporary_Electricity_kWh": 17918781.0,
-      "EV_Charging Station_kWh": 98298
+      "EV_Charging_Station_kWh": 98298
     },
     {
       "Year": 2023,
@@ -1103,7 +1103,7 @@
       "Government_State_Enterprise_kWh": 14549.0,
       "Water_Pumping_kWh": 243427.0,
       "Temporary_Electricity_kWh": 3098283.0,
-      "EV_Charging Station_kWh": 201792
+      "EV_Charging_Station_kWh": 201792
     },
     {
       "Year": 2023,
@@ -1120,7 +1120,7 @@
       "Government_State_Enterprise_kWh": 14125.0,
       "Water_Pumping_kWh": 12192166.0,
       "Temporary_Electricity_kWh": 3399474.0,
-      "EV_Charging Station_kWh": 86482
+      "EV_Charging_Station_kWh": 86482
     },
     {
       "Year": 2023,
@@ -1137,7 +1137,7 @@
       "Government_State_Enterprise_kWh": 381425.0,
       "Water_Pumping_kWh": 3106342.0,
       "Temporary_Electricity_kWh": 8124020.0,
-      "EV_Charging Station_kWh": 143575
+      "EV_Charging_Station_kWh": 143575
     },
     {
       "Year": 2023,
@@ -1154,7 +1154,7 @@
       "Government_State_Enterprise_kWh": 146743.0,
       "Water_Pumping_kWh": 537218.0,
       "Temporary_Electricity_kWh": 22726580.0,
-      "EV_Charging Station_kWh": 535349
+      "EV_Charging_Station_kWh": 535349
     },
     {
       "Year": 2023,
@@ -1171,7 +1171,7 @@
       "Government_State_Enterprise_kWh": 172026.0,
       "Water_Pumping_kWh": 4778192.0,
       "Temporary_Electricity_kWh": 7376909.0,
-      "EV_Charging Station_kWh": 86855
+      "EV_Charging_Station_kWh": 86855
     },
     {
       "Year": 2023,
@@ -1188,7 +1188,7 @@
       "Government_State_Enterprise_kWh": 151185.0,
       "Water_Pumping_kWh": 11374032.0,
       "Temporary_Electricity_kWh": 4538505.0,
-      "EV_Charging Station_kWh": 40860
+      "EV_Charging_Station_kWh": 40860
     },
     {
       "Year": 2023,
@@ -1205,7 +1205,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 4151455.0,
       "Temporary_Electricity_kWh": 4395951.0,
-      "EV_Charging Station_kWh": 28951
+      "EV_Charging_Station_kWh": 28951
     },
     {
       "Year": 2023,
@@ -1222,7 +1222,7 @@
       "Government_State_Enterprise_kWh": 301884.0,
       "Water_Pumping_kWh": 443098.0,
       "Temporary_Electricity_kWh": 3817495.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2023,
@@ -1239,7 +1239,7 @@
       "Government_State_Enterprise_kWh": 18219.0,
       "Water_Pumping_kWh": 1505875.0,
       "Temporary_Electricity_kWh": 2722486.0,
-      "EV_Charging Station_kWh": 56621
+      "EV_Charging_Station_kWh": 56621
     },
     {
       "Year": 2023,
@@ -1256,7 +1256,7 @@
       "Government_State_Enterprise_kWh": 424751.0,
       "Water_Pumping_kWh": 1610557.0,
       "Temporary_Electricity_kWh": 13353290.0,
-      "EV_Charging Station_kWh": 105442
+      "EV_Charging_Station_kWh": 105442
     },
     {
       "Year": 2023,
@@ -1273,7 +1273,7 @@
       "Government_State_Enterprise_kWh": 1790.0,
       "Water_Pumping_kWh": 59211455.0,
       "Temporary_Electricity_kWh": 3268374.0,
-      "EV_Charging Station_kWh": 159822
+      "EV_Charging_Station_kWh": 159822
     },
     {
       "Year": 2023,
@@ -1290,7 +1290,7 @@
       "Government_State_Enterprise_kWh": 26526.0,
       "Water_Pumping_kWh": 7227057.0,
       "Temporary_Electricity_kWh": 3836391.0,
-      "EV_Charging Station_kWh": 31649
+      "EV_Charging_Station_kWh": 31649
     },
     {
       "Year": 2023,
@@ -1307,7 +1307,7 @@
       "Government_State_Enterprise_kWh": 838825.0,
       "Water_Pumping_kWh": 13582965.0,
       "Temporary_Electricity_kWh": 12737002.0,
-      "EV_Charging Station_kWh": 428695
+      "EV_Charging_Station_kWh": 428695
     },
     {
       "Year": 2022,
@@ -1324,7 +1324,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 41619.0,
       "Temporary_Electricity_kWh": 8220312.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1341,7 +1341,7 @@
       "Government_State_Enterprise_kWh": 135930324.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 259879685.0,
-      "EV_Charging Station_kWh": 10514506
+      "EV_Charging_Station_kWh": 10514506
     },
     {
       "Year": 2022,
@@ -1358,7 +1358,7 @@
       "Government_State_Enterprise_kWh": 358246.0,
       "Water_Pumping_kWh": 8733267.0,
       "Temporary_Electricity_kWh": 11786401.0,
-      "EV_Charging Station_kWh": 77928
+      "EV_Charging_Station_kWh": 77928
     },
     {
       "Year": 2022,
@@ -1375,7 +1375,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 8105967.0,
       "Temporary_Electricity_kWh": 7718971.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1392,7 +1392,7 @@
       "Government_State_Enterprise_kWh": 5514.0,
       "Water_Pumping_kWh": 11531889.74,
       "Temporary_Electricity_kWh": 5768623.2,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1409,7 +1409,7 @@
       "Government_State_Enterprise_kWh": 820960.0,
       "Water_Pumping_kWh": 6955359.0,
       "Temporary_Electricity_kWh": 19618900.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1426,7 +1426,7 @@
       "Government_State_Enterprise_kWh": 295147.0,
       "Water_Pumping_kWh": 2468943.0,
       "Temporary_Electricity_kWh": 9270505.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1443,7 +1443,7 @@
       "Government_State_Enterprise_kWh": 638141.0,
       "Water_Pumping_kWh": 9475649.0,
       "Temporary_Electricity_kWh": 21672532.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1460,7 +1460,7 @@
       "Government_State_Enterprise_kWh": 1196418.0,
       "Water_Pumping_kWh": 24220.0,
       "Temporary_Electricity_kWh": 112944993.0,
-      "EV_Charging Station_kWh": 17623
+      "EV_Charging_Station_kWh": 17623
     },
     {
       "Year": 2022,
@@ -1477,7 +1477,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 2755269.0,
       "Temporary_Electricity_kWh": 2563795.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1494,7 +1494,7 @@
       "Government_State_Enterprise_kWh": 101189.0,
       "Water_Pumping_kWh": 4465200.0,
       "Temporary_Electricity_kWh": 8873580.0,
-      "EV_Charging Station_kWh": 29
+      "EV_Charging_Station_kWh": 29
     },
     {
       "Year": 2022,
@@ -1511,7 +1511,7 @@
       "Government_State_Enterprise_kWh": 49160.0,
       "Water_Pumping_kWh": 443559.0,
       "Temporary_Electricity_kWh": 7544950.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1528,7 +1528,7 @@
       "Government_State_Enterprise_kWh": 7947751.700000001,
       "Water_Pumping_kWh": 3397071.12,
       "Temporary_Electricity_kWh": 13206567.44,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1545,7 +1545,7 @@
       "Government_State_Enterprise_kWh": 11822081.33,
       "Water_Pumping_kWh": 15218260.660000002,
       "Temporary_Electricity_kWh": 31906387.170000006,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1562,7 +1562,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 158023.0,
       "Temporary_Electricity_kWh": 6193321.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1579,7 +1579,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 469007.0,
       "Temporary_Electricity_kWh": 3373618.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1596,7 +1596,7 @@
       "Government_State_Enterprise_kWh": 66764.0,
       "Water_Pumping_kWh": 2167454.0,
       "Temporary_Electricity_kWh": 7810183.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1613,7 +1613,7 @@
       "Government_State_Enterprise_kWh": 108902.0,
       "Water_Pumping_kWh": 91199.0,
       "Temporary_Electricity_kWh": 5414062.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1630,7 +1630,7 @@
       "Government_State_Enterprise_kWh": 1259989.46,
       "Water_Pumping_kWh": 956133.0,
       "Temporary_Electricity_kWh": 26208419.65,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1647,7 +1647,7 @@
       "Government_State_Enterprise_kWh": 342.0,
       "Water_Pumping_kWh": 10390191.11,
       "Temporary_Electricity_kWh": 4418117.48,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1664,7 +1664,7 @@
       "Government_State_Enterprise_kWh": 1437088.38,
       "Water_Pumping_kWh": 4901001.02,
       "Temporary_Electricity_kWh": 45059089.029999994,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1681,7 +1681,7 @@
       "Government_State_Enterprise_kWh": 123152.76,
       "Water_Pumping_kWh": 1550327.6600000004,
       "Temporary_Electricity_kWh": 11866686.12,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1698,7 +1698,7 @@
       "Government_State_Enterprise_kWh": 780690.5,
       "Water_Pumping_kWh": 20056780.47,
       "Temporary_Electricity_kWh": 10319132.250000002,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1715,7 +1715,7 @@
       "Government_State_Enterprise_kWh": 779809.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 48697092.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1732,7 +1732,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 68330.0,
       "Temporary_Electricity_kWh": 3877719.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1749,7 +1749,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 2507604.0,
       "Temporary_Electricity_kWh": 4335716.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1766,7 +1766,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 1725165.0,
       "Temporary_Electricity_kWh": 4261568.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1783,7 +1783,7 @@
       "Government_State_Enterprise_kWh": 4.0,
       "Water_Pumping_kWh": 1795201.0,
       "Temporary_Electricity_kWh": 9847537.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1800,7 +1800,7 @@
       "Government_State_Enterprise_kWh": 33557700.0,
       "Water_Pumping_kWh": 178155.0,
       "Temporary_Electricity_kWh": 64076051.0,
-      "EV_Charging Station_kWh": 8021
+      "EV_Charging_Station_kWh": 8021
     },
     {
       "Year": 2022,
@@ -1817,7 +1817,7 @@
       "Government_State_Enterprise_kWh": 1499273.0,
       "Water_Pumping_kWh": 114041.0,
       "Temporary_Electricity_kWh": 14219149.0,
-      "EV_Charging Station_kWh": 47344
+      "EV_Charging_Station_kWh": 47344
     },
     {
       "Year": 2022,
@@ -1834,7 +1834,7 @@
       "Government_State_Enterprise_kWh": 162220.0,
       "Water_Pumping_kWh": 3708459.0,
       "Temporary_Electricity_kWh": 9289608.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1851,7 +1851,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 43287.0,
       "Temporary_Electricity_kWh": 4279167.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1868,7 +1868,7 @@
       "Government_State_Enterprise_kWh": 894308.0,
       "Water_Pumping_kWh": 6094858.0,
       "Temporary_Electricity_kWh": 26332786.0,
-      "EV_Charging Station_kWh": 79305
+      "EV_Charging_Station_kWh": 79305
     },
     {
       "Year": 2022,
@@ -1885,7 +1885,7 @@
       "Government_State_Enterprise_kWh": 97097.0,
       "Water_Pumping_kWh": 1091581.0,
       "Temporary_Electricity_kWh": 3162128.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1902,7 +1902,7 @@
       "Government_State_Enterprise_kWh": 211543.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 5541096.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1919,7 +1919,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 1275713.0,
       "Temporary_Electricity_kWh": 4055194.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1936,7 +1936,7 @@
       "Government_State_Enterprise_kWh": 132660.0,
       "Water_Pumping_kWh": 21538537.0,
       "Temporary_Electricity_kWh": 3222322.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1953,7 +1953,7 @@
       "Government_State_Enterprise_kWh": 114465.01000000001,
       "Water_Pumping_kWh": 18199960.960000005,
       "Temporary_Electricity_kWh": 7245942.000000001,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1970,7 +1970,7 @@
       "Government_State_Enterprise_kWh": 1038822.27,
       "Water_Pumping_kWh": 2355871.8400000003,
       "Temporary_Electricity_kWh": 6880443.57,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -1987,7 +1987,7 @@
       "Government_State_Enterprise_kWh": 230742.53,
       "Water_Pumping_kWh": 1070769.31,
       "Temporary_Electricity_kWh": 9552246.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2004,7 +2004,7 @@
       "Government_State_Enterprise_kWh": 236703.0,
       "Water_Pumping_kWh": 3399418.0,
       "Temporary_Electricity_kWh": 2272773.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2021,7 +2021,7 @@
       "Government_State_Enterprise_kWh": 371413.13,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 32030713.509999998,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2038,7 +2038,7 @@
       "Government_State_Enterprise_kWh": 91981.0,
       "Water_Pumping_kWh": 8842431.0,
       "Temporary_Electricity_kWh": 6649283.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2055,7 +2055,7 @@
       "Government_State_Enterprise_kWh": 757.0,
       "Water_Pumping_kWh": 1608139.0,
       "Temporary_Electricity_kWh": 4050365.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2072,7 +2072,7 @@
       "Government_State_Enterprise_kWh": 19239.0,
       "Water_Pumping_kWh": 261759.0,
       "Temporary_Electricity_kWh": 1412979.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2089,7 +2089,7 @@
       "Government_State_Enterprise_kWh": 41608.0,
       "Water_Pumping_kWh": 9019974.25,
       "Temporary_Electricity_kWh": 3815276.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2106,7 +2106,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 57503.060000000005,
       "Temporary_Electricity_kWh": 4435304.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2123,7 +2123,7 @@
       "Government_State_Enterprise_kWh": 37904.0,
       "Water_Pumping_kWh": 27891128.2,
       "Temporary_Electricity_kWh": 6010441.140000001,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2140,7 +2140,7 @@
       "Government_State_Enterprise_kWh": 24576.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 2683047.0,
-      "EV_Charging Station_kWh": 1941
+      "EV_Charging_Station_kWh": 1941
     },
     {
       "Year": 2022,
@@ -2157,7 +2157,7 @@
       "Government_State_Enterprise_kWh": 146595.0,
       "Water_Pumping_kWh": 12013383.0,
       "Temporary_Electricity_kWh": 59169294.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2174,7 +2174,7 @@
       "Government_State_Enterprise_kWh": 1813828.0,
       "Water_Pumping_kWh": 999192.0,
       "Temporary_Electricity_kWh": 13912787.0,
-      "EV_Charging Station_kWh": 1035
+      "EV_Charging_Station_kWh": 1035
     },
     {
       "Year": 2022,
@@ -2191,7 +2191,7 @@
       "Government_State_Enterprise_kWh": 403582.0,
       "Water_Pumping_kWh": 3232178.0,
       "Temporary_Electricity_kWh": 9870052.0,
-      "EV_Charging Station_kWh": 367
+      "EV_Charging_Station_kWh": 367
     },
     {
       "Year": 2022,
@@ -2208,7 +2208,7 @@
       "Government_State_Enterprise_kWh": 257737.0,
       "Water_Pumping_kWh": 4064169.0,
       "Temporary_Electricity_kWh": 5365770.0,
-      "EV_Charging Station_kWh": 45753
+      "EV_Charging_Station_kWh": 45753
     },
     {
       "Year": 2022,
@@ -2225,7 +2225,7 @@
       "Government_State_Enterprise_kWh": 198613.99000000002,
       "Water_Pumping_kWh": 2244066.0,
       "Temporary_Electricity_kWh": 4083874.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2242,7 +2242,7 @@
       "Government_State_Enterprise_kWh": 6912.0,
       "Water_Pumping_kWh": 3502652.3,
       "Temporary_Electricity_kWh": 5170070.2,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2259,7 +2259,7 @@
       "Government_State_Enterprise_kWh": 3350.0,
       "Water_Pumping_kWh": 4023278.59,
       "Temporary_Electricity_kWh": 6081591.000000001,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2276,7 +2276,7 @@
       "Government_State_Enterprise_kWh": 19728.0,
       "Water_Pumping_kWh": 4336778.129999999,
       "Temporary_Electricity_kWh": 6492536.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2293,7 +2293,7 @@
       "Government_State_Enterprise_kWh": 649423.6900000002,
       "Water_Pumping_kWh": 2232359.0100000002,
       "Temporary_Electricity_kWh": 27592646.900000002,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2310,7 +2310,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 7734.0,
       "Temporary_Electricity_kWh": 1809655.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2327,7 +2327,7 @@
       "Government_State_Enterprise_kWh": 1697133.0,
       "Water_Pumping_kWh": 0.0,
       "Temporary_Electricity_kWh": 53796000.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2344,7 +2344,7 @@
       "Government_State_Enterprise_kWh": 97399.0,
       "Water_Pumping_kWh": 35855.0,
       "Temporary_Electricity_kWh": 2710876.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2361,7 +2361,7 @@
       "Government_State_Enterprise_kWh": 33624.75,
       "Water_Pumping_kWh": 6064.9,
       "Temporary_Electricity_kWh": 19657679.970000003,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2378,7 +2378,7 @@
       "Government_State_Enterprise_kWh": 11664.0,
       "Water_Pumping_kWh": 429818.0,
       "Temporary_Electricity_kWh": 5635271.799999999,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2395,7 +2395,7 @@
       "Government_State_Enterprise_kWh": 2644083.0,
       "Water_Pumping_kWh": 4512431.569999999,
       "Temporary_Electricity_kWh": 16064142.230000004,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2412,7 +2412,7 @@
       "Government_State_Enterprise_kWh": 14384.0,
       "Water_Pumping_kWh": 218459.0,
       "Temporary_Electricity_kWh": 3123587.0,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2429,7 +2429,7 @@
       "Government_State_Enterprise_kWh": 36346.01,
       "Water_Pumping_kWh": 10035850.02,
       "Temporary_Electricity_kWh": 3146468.3,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2446,7 +2446,7 @@
       "Government_State_Enterprise_kWh": 279801.58999999997,
       "Water_Pumping_kWh": 2836344.5,
       "Temporary_Electricity_kWh": 5851391.239999999,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2463,7 +2463,7 @@
       "Government_State_Enterprise_kWh": 95634.02,
       "Water_Pumping_kWh": 428124.74,
       "Temporary_Electricity_kWh": 20348456.279999997,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2480,7 +2480,7 @@
       "Government_State_Enterprise_kWh": 176588.97,
       "Water_Pumping_kWh": 5354708.139999999,
       "Temporary_Electricity_kWh": 7269542.61,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2497,7 +2497,7 @@
       "Government_State_Enterprise_kWh": 95293.30999999998,
       "Water_Pumping_kWh": 13157387.16,
       "Temporary_Electricity_kWh": 6618541.200000001,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     },
     {
       "Year": 2022,
@@ -2514,7 +2514,7 @@
       "Government_State_Enterprise_kWh": 0.0,
       "Water_Pumping_kWh": 3232188.6599999997,
       "Temporary_Electricity_kWh": 3925455.3699999996,
-      "EV_Charging Station_kWh": 0
+      "EV_Charging_Station_kWh": 0
     }
   ]
 }

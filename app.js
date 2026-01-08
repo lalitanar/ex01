@@ -27,7 +27,8 @@ app.get('/api/electricity/:province', (req, res) => {
     res.json(provinceData);
 });
 
-// API to get total electricity usage (kWh) of a specific province
+// API to get total electricity usage (kWh) of a specific province 
+//sum 2 years data
 app.get('/api/electricity/total/:province', (req, res) => {
     const province = req.params.province;
     const provinceData = electricityData.filter(item => item.Province_Name === province);
